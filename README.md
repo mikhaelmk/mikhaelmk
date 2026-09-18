@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="50%" alt="Banner lunar do perfil">
+  <img src="./assets/banner.png" width="45%" alt="Banner lunar do perfil">
 </p>
 
 <h1 align="center">Mikael</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/dividers/divider-star.png" width="50%" alt="">
+  <img src="./assets/dividers/divider-star.png" width="30%" alt="">
 </p>
 
 ## Sobre
@@ -28,7 +28,7 @@ Faculdade, exercícios, projetos pequenos e algumas experiências fora das aulas
 Git e GitHub também entram nisso: estou aprendendo a usar conforme preciso deles, não colecionando badge para enfeitar perfil.
 
 <p align="center">
-  <img src="./assets/dividers/divider-orbit.png" width="50%" alt="">
+  <img src="./assets/dividers/divider-orbit.png" width="45%" alt="">
 </p>
 
 ## Projetos
@@ -53,7 +53,7 @@ Um projeto de ficção sobre uma estação, uma lua grande demais e pessoas que 
 `rascunho` · `ficção`
 
 <p align="center">
-  <img src="./assets/dividers/divider-phases.png" width="50%" alt="">
+  <img src="./assets/dividers/divider-phases.png" width="45%" alt="">
 </p>
 
 <p align="center">
