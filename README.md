@@ -2,16 +2,6 @@
   <img src="./assets/banner.png" width="45%" alt="Banner lunar do perfil">
 </p>
 
-<h1 align="center">Mikael</h1>
-
-<p align="center">
-  Ciência da Computação · C++ em estudo · projetos pessoais · ideias estranhas
-</p>
-
-<p align="center">
-  <img src="./assets/dividers/divider-star.png" width="30%" alt="">
-</p>
-
 ## Sobre
 
 Estou cursando **Ciência da Computação**. O que eu realmente estudo com mais frequência hoje é **C++**, **Programação Orientada a Objetos**, **Estruturas de Dados** e **Algoritmos**.
